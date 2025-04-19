@@ -1,0 +1,20 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Marius Aiordachioaei\nNathaniel Crosby"
+            }
+        ],
+        "Category": "Fun and Games",
+        "Description": "Spinning Kasane Teto\nForked from Maxwell.",
+        "Icon": "emblem-favorite-symbolic",
+        "Id": "kasanetetospin",
+        "License": "GPL3",
+        "Name": "Spinning Kasane Teto",
+        "BugReportUrl": "https://redsie.co.uk/nate/bugreport",
+        "Website": "https://redsie.co.uk/nate",
+        "Version": "1.0"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
